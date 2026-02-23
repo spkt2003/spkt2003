@@ -8,8 +8,13 @@
 
 ### 🛠 Tech Stack & Tools
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT_(ESP32)-000000?style=for-the-badge&logo=espressif&logoColor=white" />
@@ -22,11 +27,11 @@
 
 * 🏠 **Homy**
   * **Description:** แพลตฟอร์มเชื่อมโยงระหว่างเจ้าของบ้านและผู้รับดูแลบ้าน (Homy) โดยเน้นไปที่ความปลอดภัย ความน่าเชื่อถือ และระบบการจับคู่ที่ตอบโจทย์
-  * **Tech Stack:** Frontend [Next.js, React, TypeScript]  Backend [Tailwind CSS, shadcn/ui, Lucide React] Database [Supabase]
-  * **Link:** [[คลิกเพื่อดู Source Code หรือ Demo]]
+  * **Tech Stack:** * **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Lucide React
+    * **Backend / Database:** Supabase
 
 ---
 
 ### 📫 How to reach me
-* **Email:** [tkpss2003@gmai.com]
-* **Resume:** [ใส่ลิงก์ Google Drive หรือเว็บไซต์ Portfolio ถ้ามี]
+* **Email:** tkpss2003@gmail.com
+* **Resume:** [คลิกเพื่อดู Resume ของผม](ใส่ลิงก์ Google Drive หรือเว็บไซต์ Portfolio ตรงนี้)
