@@ -30,14 +30,12 @@
   * **Description:** แพลตฟอร์มเชื่อมโยงระหว่างเจ้าของบ้านและผู้รับดูแลบ้าน (Homy) โดยเน้นไปที่ความปลอดภัย ความน่าเชื่อถือ และระบบการจับคู่ที่ตอบโจทย์
   * **Tech Stack:** * **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Lucide React
     * **Backend / Database:** Supabase
-  * **Link:** [[คลิกเพื่อดู Source Code หรือ Demo]](ใส่ลิงก์ตรงนี้)
 
 * 📦 **System ยืมคืน (Equipment Borrow/Return System)**
   * **Description:** ระบบ Desktop Application สำหรับจัดการยืม-คืนอุปกรณ์ มาพร้อมหน้าจอ GUI สไตล์ Modern Dark-mode และมีระบบสร้าง QR Code สำหรับจัดการเรื่องค่าปรับ
   * **Tech Stack:** * **Language & GUI:** Python, CustomTkinter (Tkinter)
     * **Tools & Libraries:** Pillow (PIL), qrcode, python-dateutil
     * **Database:** SQLite
-  * **Link:** [[คลิกเพื่อดู Source Code หรือ Demo]](ใส่ลิงก์ตรงนี้)
 
 ---
 
