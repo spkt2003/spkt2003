@@ -55,6 +55,12 @@ A web-based 2D clone of the popular The New York Times word-guessing game. It fe
 
 ---
 
+### 🏆 Certificates & Activities
+Explore my verified achievements, training, and extra-curricular activities:
+* 📜 **View my Gallery:** [Certificates & Activities Portfolio](https://my-portfolio-xi-rust-95.vercel.app/)
+
+---
+
 ### 📫 Let's Connect
 
 * **Email:** [tkpss2003@gmail.com](mailto:tkpss2003@gmail.com)
