@@ -58,4 +58,4 @@
 ### 📫 Let's Connect
 
 * **Email:** [tkpss2003@gmail.com](mailto:tkpss2003@gmail.com)
-* **Resume:** [คลิกเพื่อดู Resume ของผม](ใส่ลิงก์ตรงนี้)
+* **Resume:** [คลิกเพื่อดู Resume ของผม](https://drive.google.com/file/d/1-ZO1x_8iQ7CfmiU2dPaHUgNGr06tLNIj/view?usp=sharing)
