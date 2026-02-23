@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,6 +42,10 @@
 * 🚑 **CPR-Health-Robotic**
   * **Description:** เกม Interactive สำหรับฝึกทักษะการทำ CPR โดยใช้กล้อง Webcam ตรวจจับสัญญาณแสงไฟจากหุ่นจำลอง CPR ผู้เล่นจะต้องรักษาระดับการกดหน้าอกให้ไฟสีเขียวสว่างต่อเนื่องเป็นเวลา 1 นาที
   * **Tech Stack:** Node-RED, Webcam Detection
+
+* 🎮 **2D-HTML-GAME-Project (Wordle Clone)**
+  * **Description:** โปรเจกต์โคลนเกมทายคำศัพท์ยอดฮิตของ The New York Times (Wordle) ในรูปแบบ Web-based Game 2D โดยมีการดึงข้อมูลคลังคำศัพท์จากไฟล์ JSON มาใช้ในระบบสุ่มและตรวจสอบความถูกต้องของคำ
+  * **Tech Stack:** HTML, CSS, JavaScript, JSON
 
 ---
 
