@@ -45,6 +45,5 @@
 ---
 
 ### 📫 How to reach me
-* **Email:** [ใส่อีเมลของคุณ เช่น your.email@gmail.com]
-* **LinkedIn:** [ใส่ลิงก์โปรไฟล์ LinkedIn ของคุณ]
+* **Email:** [tkpss2003@gmai.com]
 * **Resume:** [ใส่ลิงก์ Google Drive หรือเว็บไซต์ Portfolio ถ้ามี]
