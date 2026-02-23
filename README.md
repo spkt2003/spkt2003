@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT_(ESP32)-000000?style=for-the-badge&logo=espressif&logoColor=white" />
@@ -29,6 +30,14 @@
   * **Description:** แพลตฟอร์มเชื่อมโยงระหว่างเจ้าของบ้านและผู้รับดูแลบ้าน (Homy) โดยเน้นไปที่ความปลอดภัย ความน่าเชื่อถือ และระบบการจับคู่ที่ตอบโจทย์
   * **Tech Stack:** * **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Lucide React
     * **Backend / Database:** Supabase
+  * **Link:** [[คลิกเพื่อดู Source Code หรือ Demo]](ใส่ลิงก์ตรงนี้)
+
+* 📦 **System ยืมคืน (Equipment Borrow/Return System)**
+  * **Description:** ระบบ Desktop Application สำหรับจัดการยืม-คืนอุปกรณ์ มาพร้อมหน้าจอ GUI สไตล์ Modern Dark-mode และมีระบบสร้าง QR Code สำหรับจัดการเรื่องค่าปรับ
+  * **Tech Stack:** * **Language & GUI:** Python, CustomTkinter (Tkinter)
+    * **Tools & Libraries:** Pillow (PIL), qrcode, python-dateutil
+    * **Database:** SQLite
+  * **Link:** [[คลิกเพื่อดู Source Code หรือ Demo]](ใส่ลิงก์ตรงนี้)
 
 ---
 
