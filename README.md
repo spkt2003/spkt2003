@@ -2,7 +2,7 @@
 
 **IT Student @ HCU | Web Developer & IoT Enthusiast**
 
-I am an Information Technology student at Huachiew Chalermprakiet University (HCU) with a strong passion for Web Application development and applying IoT systems to solve real-world problems. I am currently seeking a **Co-op / Internship** opportunity to bring my knowledge, skills, and passion to a real-world professional environment. 🚀
+ผมเป็นนักศึกษามหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ ที่มีความสนใจด้านการพัฒนา Web Application และการนำระบบ IoT มาแก้ปัญหาในชีวิตจริง ปัจจุบันกำลังมองหาสถานที่ทำ **สหกิจศึกษา (Co-op)** เพื่อนำความรู้และแพสชันไปลุยงานในสภาพแวดล้อมจริงครับ 🚀
 
 ---
 
@@ -38,30 +38,25 @@ I am an Information Technology student at Huachiew Chalermprakiet University (HC
 ### 🚀 Featured Projects
 
 #### 🏠 Homy
-A matchmaking platform connecting homeowners with reliable home-sitters. The system is designed with a strong focus on security, trust, and an efficient matching algorithm.
+แพลตฟอร์มเชื่อมโยงระหว่างเจ้าของบ้านและผู้รับดูแลบ้าน (Home-sitter) มุ่งเน้นความปลอดภัย ความน่าเชื่อถือ และระบบการจับคู่ที่ตอบโจทย์
 **Tech Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase`
 
-#### 📦 Equipment Borrow/Return System
-A Desktop Application for managing equipment borrowing and returning processes. It features a modern dark-mode GUI and an integrated QR code generation system for handling fines.
+#### 📦 Equipment Borrow/Return System (System ยืมคืน)
+ระบบ Desktop Application จัดการยืม-คืนอุปกรณ์ มาพร้อม GUI สไตล์ Modern Dark-mode และระบบสร้าง QR Code สำหรับจัดการเรื่องค่าปรับ
 **Tech Stack:** `Python` `CustomTkinter` `SQLite` `Pillow` `qrcode`
 
 #### 🚑 CPR-Health-Robotic
-An interactive gamified system for CPR training. It utilizes webcam detection and Node-RED to process light signals from a CPR dummy, requiring the player to maintain steady chest compressions to keep a green light on continuously for 1 minute.
+เกม Interactive ฝึกทักษะการทำ CPR ทำงานผ่านกล้อง Webcam ตรวจจับสัญญาณแสงไฟจากหุ่นจำลอง ผู้เล่นต้องรักษาระดับการกดหน้าอกให้ไฟสีเขียวสว่างต่อเนื่อง 1 นาที
 **Tech Stack:** `Node-RED` `Webcam Detection`
 
 #### 🎮 Wordle Clone (2D Web Game)
-A web-based 2D clone of the popular The New York Times word-guessing game. It fetches a vocabulary database from a JSON file for randomizing words and verifying user inputs.
+โปรเจกต์โคลนเกมทายคำศัพท์ยอดฮิตของ The New York Times ในรูปแบบ Web-based Game ดึงข้อมูลคลังคำศัพท์จากไฟล์ JSON เพื่อสุ่มและตรวจสอบความถูกต้อง
 **Tech Stack:** `HTML` `CSS` `JavaScript` `JSON`
-
----
-
-### 🏆 Certificates & Activities
-Explore my verified achievements, training, and extra-curricular activities:
-* 📜 **View my Gallery:** [Certificates & Activities Portfolio](https://my-portfolio-xi-rust-95.vercel.app/)
 
 ---
 
 ### 📫 Let's Connect
 
 * **Email:** [tkpss2003@gmail.com](mailto:tkpss2003@gmail.com)
-* **Resume:** [Click here to view my Resume](https://drive.google.com/file/d/1-ZO1x_8iQ7CfmiU2dPaHUgNGr06tLNIj/view?usp=sharing)
+* **Resume:** [คลิกเพื่อดู Resume ของผม](ใส่ลิงก์ตรงนี้)
+
