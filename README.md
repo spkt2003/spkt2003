@@ -2,7 +2,7 @@
 
 **Computer Science Student @ HCU | Web Developer & IoT Enthusiast**
 
-I am a 3rd-year Computer Science student in the Faculty of Science and Technology at Huachiew Chalermprakiet University (HCU) with a strong passion for Web Application development and applying IoT systems to solve real-world problems. I am currently seeking a **Co-op / Internship** opportunity to bring my knowledge, skills, and passion to a real-world professional environment. 🚀
+I am a 3rd-year Computer Science student in the Faculty of Science and Technology at Huachiew Chalermprakiet University (HCU) with a strong passion for Web Application development and applying IoT systems to solve real-world problems. I am also highly interested in leveraging AI and Data Analytics to build smarter solutions. I am currently seeking a Co-op / Internship opportunity to bring my knowledge, skills, and passion to a real-world professional environment. 🚀
 
 ---
 
