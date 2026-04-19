@@ -37,6 +37,10 @@ I am a 3rd-year Computer Science student in the Faculty of Science and Technolog
 
 ### 🚀 Featured Projects
 
+#### 🩺 Dialybuddy
+A specialized healthcare platform designed for kidney disease patients and their families. It features a highly secure matching system for professional dialysis caregivers and an AI-driven nutrition planner for safe, personalized meal management.
+**Tech Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS`
+
 #### 🏠 Homy
 A matchmaking platform connecting homeowners with reliable home-sitters. The system is designed with a strong focus on security, trust, and an efficient matching algorithm.
 **Tech Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase`
